@@ -1,7 +1,9 @@
-# Pagerank for Information Retrieval in Python3
-Rank the pages in the corpus by considering the inlinks and outlinks.
-<br>Handling dead ends and spider traps.
-<br>Topic Specific Page Rank and visualization of page links using igraph.
+# EduSearch Engine for Information Retrieval in Python3
+We aim to provide fast and efficient retrieval of queries related to Computer Science on our Search Engine. We have already pre-processed (indexing) all the websites in the education domain, i.e. '.edu'.
+<br>
+We have ranked pages in the corpus by considering the inlinks and outlinks.
+<br>We have handled dead ends and spider traps.
+<br>Also, Topic Specific Page Rank and visualization of page links using igraph has been implemented!
 
 **Installing igraph in ubuntu:**
 ```
