@@ -3,7 +3,7 @@ Rank the pages in the corpus by considering the inlinks and outlinks.
 <br>Handling dead ends and spider traps.
 <br>Topic Specific Page Rank and visualization of page links using igraph.
 
-Installing igraph in ubuntu:
+**Installing igraph in ubuntu:**
 ```
 Try step 3 first. If you get an error then follow from step 1. 
 1. Install aptitude: sudo apt install aptitude
